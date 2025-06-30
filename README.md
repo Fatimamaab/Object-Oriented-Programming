@@ -4,12 +4,16 @@ Welcome to the Object Oriented Programming (OOP) repository! This project showca
 
 This repository contains examples, assignments, and mini-projects that demonstrate the four core pillars of object-oriented programming:
 
-* Encapsulation           # Hiding internal state and requiring all interaction through methods.
+* Encapsulation:
+        Hiding internal state and requiring all interaction through methods.
 
-* Inheritance             # Creating new classes based on existing ones to promote code reuse.
+* Inheritance:
+        Creating new classes based on existing ones to promote code reuse.
 
-* Polymorphism            # Defining different behaviors for the same interface or method.
+* Polymorphism:
+        Defining different behaviors for the same interface or method.
 
-* Abstraction             # Hiding complex implementation details and showing only essential features.
+* Abstraction:
+        Hiding complex implementation details and showing only essential features.
 
 Whether you're a beginner or revisiting OOP concepts, this repo is designed to help you understand and apply OOP in real-world scenarios.
